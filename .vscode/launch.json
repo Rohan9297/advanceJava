@@ -1,0 +1,207 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "DataStrucure.String.Reverse",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "Zigzag",
+            "request": "launch",
+            "mainClass": "DataStrucure.String.Zigzag",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "Rotation",
+            "request": "launch",
+            "mainClass": "DataStrucure.String.Rotation",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "Plus1",
+            "request": "launch",
+            "mainClass": "DataStrucure.arrays.Plus1",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "Wave_Array",
+            "request": "launch",
+            "mainClass": "DataStrucure.arrays.Wave_Array",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "Rotation",
+            "request": "launch",
+            "mainClass": "DataStrucure.arrays.Rotation",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "Remove_zero",
+            "request": "launch",
+            "mainClass": "DataStrucure.arrays.Remove_zero",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "Reverse_Array",
+            "request": "launch",
+            "mainClass": "DataStrucure.arrays.Reverse_Array",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "Third_Maximum",
+            "request": "launch",
+            "mainClass": "DataStrucure.arrays.Third_Maximum",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "ArmStrong",
+            "request": "launch",
+            "mainClass": "DataStrucure.arrays.ArmStrong",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "DataStrucure.arrays.Prime",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "Print_name",
+            "request": "launch",
+            "mainClass": "DataStrucure.recursion.Print_name",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "PrintNumber",
+            "request": "launch",
+            "mainClass": "DataStrucure.recursion.PrintNumber",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "SecondMax",
+            "request": "launch",
+            "mainClass": "DataStrucure.arrays.SecondMax",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "Assci",
+            "request": "launch",
+            "mainClass": "DataStrucure.String.Assci",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "Sb",
+            "request": "launch",
+            "mainClass": "DataStrucure.String.Sb",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "Sample",
+            "request": "launch",
+            "mainClass": "DataStrucure.arrays.Sample",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "Buble",
+            "request": "launch",
+            "mainClass": "DataStrucure.sorting.Buble",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "Sorted",
+            "request": "launch",
+            "mainClass": "DataStrucure.recursion.Sorted",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "Steps",
+            "request": "launch",
+            "mainClass": "DataStrucure.recursion.Steps",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "DataStrucure.recursion.Reverse",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDigits",
+            "request": "launch",
+            "mainClass": "DataStrucure.recursion.SumOfDigits",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "DataStrucure.recursion.Factorial",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "Nto1",
+            "request": "launch",
+            "mainClass": "DataStrucure.recursion.Nto1",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "DataStrucure.recursion.BinarySearch",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "FibonaciiNumber",
+            "request": "launch",
+            "mainClass": "DataStrucure.recursion.FibonaciiNumber",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "Recursioncopy",
+            "request": "launch",
+            "mainClass": "DataStrucure.recursion.Recursioncopy",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "DataStrucure.arrays.Solution",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "advanceJava_d6000cd3"
+        }
+    ]
+}
