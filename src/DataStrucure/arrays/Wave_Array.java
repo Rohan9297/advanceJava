@@ -33,4 +33,10 @@ public class Wave_Array {
         }
 
     }
+
+    public int[] forwardPackete(int destination, int source, int timestamp) {
+
+        Math.sqrt(56);
+        return new int[2];
+    }
 }
