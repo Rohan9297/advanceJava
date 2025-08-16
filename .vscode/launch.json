@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseString_II",
+            "request": "launch",
+            "mainClass": "DataStrucure.DP.ReverseString_II",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
             "name": "Hashcode",
             "request": "launch",
             "mainClass": "DataStrucure.HashMap.Hashcode",
