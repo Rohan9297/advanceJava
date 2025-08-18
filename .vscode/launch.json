@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Leetcode1239",
+            "request": "launch",
+            "mainClass": "Leetcode1239",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
             "name": "ReverseString_II",
             "request": "launch",
             "mainClass": "DataStrucure.DP.ReverseString_II",
