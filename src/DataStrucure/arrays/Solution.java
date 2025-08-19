@@ -1,4 +1,3 @@
-package DataStrucure.arrays;
 
 import java.util.ArrayList;
 
