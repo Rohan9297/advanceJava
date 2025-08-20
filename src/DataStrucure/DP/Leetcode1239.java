@@ -22,6 +22,8 @@ import java.util.List;
 // - "ique" ("iq" + "ue")
 // Maximum length is 4.
 public class Leetcode1239 {
+    public static int[][] matrix;
+
     public static void main(String[] args) {
 
         List<String> arr = Arrays.asList("un", "iq", "ue");
