@@ -2,6 +2,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Permutation",
+            "request": "launch",
+            "mainClass": "Permutation",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Remove_A",
+            "request": "launch",
+            "mainClass": "Remove_A",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "SelectionSort",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "BubleSort",
+            "request": "launch",
+            "mainClass": "BubleSort",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "StaerPattern",
+            "request": "launch",
+            "mainClass": "StaerPattern",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
             "name": "Leetcode3005",
             "request": "launch",
             "mainClass": "Leetcode3005",

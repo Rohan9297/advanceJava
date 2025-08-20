@@ -1,8 +1,5 @@
-package DataStrucure.HashMap;
 
 import java.util.HashMap;
-
-import javax.swing.text.html.parser.Entity;
 
 public class Hashcode {
     public static void main(String[] args) {
