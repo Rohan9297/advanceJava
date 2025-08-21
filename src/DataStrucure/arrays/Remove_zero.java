@@ -1,4 +1,4 @@
-package DataStrucure.arrays;
+package Leetcode.arrays;
 
 public class Remove_zero {
     public static void main(String[] args) {

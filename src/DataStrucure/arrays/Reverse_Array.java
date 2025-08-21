@@ -1,4 +1,4 @@
-package DataStrucure.arrays;
+package Leetcode.arrays;
 
 // reverse the array in the k group
 public class Reverse_Array {

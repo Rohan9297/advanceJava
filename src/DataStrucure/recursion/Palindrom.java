@@ -1,4 +1,4 @@
-package DataStrucure.recursion;
+package Leetcode.recursion;
 
 public class Palindrom {
     public static void main(String[] args) {

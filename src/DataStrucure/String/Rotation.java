@@ -1,4 +1,4 @@
-package DataStrucure.String;
+package Leetcode.String;
 
 public class Rotation {
     public static void main(String[] args) {

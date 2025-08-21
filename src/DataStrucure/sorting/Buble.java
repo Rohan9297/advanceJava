@@ -1,4 +1,4 @@
-package DataStrucure.sorting;
+package Leetcode.sorting;
 
 public class Buble {
     public static void main(String[] args) {

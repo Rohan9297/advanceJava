@@ -1,3 +1,5 @@
+package Leetcode.HashMap;
+
 import java.util.HashSet;
 
 public class Leetcode202 {

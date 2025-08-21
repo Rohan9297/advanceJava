@@ -1,4 +1,4 @@
-package DataStrucure.arrays;
+package Leetcode.arrays;
 
 public class Third_Maximum {
     public static void main(String[] args) {

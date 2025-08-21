@@ -1,4 +1,4 @@
-package DataStrucure.arrays;
+package Leetcode.arrays;
 
 // Given two unsorted arrays of distinct elements, the task is to find all pairs from both arrays whose sum is equal to a given value X.
 import java.util.Arrays;

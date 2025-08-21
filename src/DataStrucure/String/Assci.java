@@ -1,4 +1,4 @@
-package DataStrucure.String;
+package Leetcode.String;
 
 import java.util.Arrays;
 
