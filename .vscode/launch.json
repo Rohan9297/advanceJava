@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Leetocde623",
+            "request": "launch",
+            "mainClass": "DataStrucure.Leetcode.Leetocde623",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "Exceptions",
+            "request": "launch",
+            "mainClass": "OOP.Interfaece.Exceptions",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
             "name": "Leetcode17",
             "request": "launch",
             "mainClass": "Leetcode17",
