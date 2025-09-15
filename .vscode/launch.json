@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Leetcode389",
+            "request": "launch",
+            "mainClass": "DataStrucure.Leetcode.Leetcode389",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
             "name": "Leetocde623",
             "request": "launch",
             "mainClass": "DataStrucure.Leetcode.Leetocde623",
