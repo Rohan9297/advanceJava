@@ -1,4 +1,4 @@
-package Leetcode.HashMap;
+package DataStrucure.HashMap;
 
 import java.util.HashMap;
 
