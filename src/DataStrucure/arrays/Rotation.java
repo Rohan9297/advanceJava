@@ -1,4 +1,4 @@
-package Leetcode.arrays;
+package DataStrucure.arrays;
 
 public class Rotation {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Leetcode.HashMap;
+package DataStrucure.HashMap;
 
 public class Leetcode1723 {
 
