@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Leetcode677",
+            "request": "launch",
+            "mainClass": "DataStrucure.Leetcode.Leetcode677",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "SuperKey",
+            "request": "launch",
+            "mainClass": "OOP.Concepts.SuperKey",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
             "name": "Leetcode123",
             "request": "launch",
             "mainClass": "DataStrucure.Leetcode.Leetcode123",

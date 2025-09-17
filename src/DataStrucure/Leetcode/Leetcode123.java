@@ -1,7 +1,5 @@
 package DataStrucure.Leetcode;
 
-import java.util.Arrays;
-
 public class Leetcode123 {
     public static void main(String[] args) {
         String[] dictionary = { "cat", "bat", "rat" };
@@ -13,8 +11,6 @@ public class Leetcode123 {
 
     private static String result(String[] dictionary, String sentence) {
         String[] newstr = sentence.split(" ");
-        // System.out.println(Arrays.toString(newstr));
-        // System.out.println(sentence);
         StringBuilder result = new StringBuilder();
 
         for (int i = 0; i < newstr.length; i++) {
