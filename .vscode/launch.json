@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Synchronization",
+            "request": "launch",
+            "mainClass": "OOP.Threads.Synchronization",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "Leetcode692",
+            "request": "launch",
+            "mainClass": "DataStrucure.HashMap.Leetcode692",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
             "name": "Leetcode677",
             "request": "launch",
             "mainClass": "DataStrucure.Leetcode.Leetcode677",
