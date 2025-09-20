@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Leetcode720",
+            "request": "launch",
+            "mainClass": "DataStrucure.HashMap.Leetcode720",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
             "name": "Leetcode697",
             "request": "launch",
             "mainClass": "DataStrucure.HashMap.Leetcode697",

@@ -26,7 +26,7 @@ public class Leetcode73 {
     }
 
     public static void solve(int[][] matrix) {
-        Leetcode1239.matrix = matrix;
+        // Leetcode1239.matrix = matrix;
 
         for (int i = 0; i < matrix.length; i++) {
             for (int j = 0; j < matrix[0].length; j++) {
