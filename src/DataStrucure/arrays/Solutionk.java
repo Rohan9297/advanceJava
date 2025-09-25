@@ -2,7 +2,7 @@ package DataStrucure.arrays;
 
 import java.util.ArrayList;
 
-public class Solution {
+public class Solutionk {
 
     public static void main(String[] args) {
         int[] arr = { 1, 2, 3, 7, 5 };

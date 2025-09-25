@@ -2,6 +2,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Leetcode395",
+            "request": "launch",
+            "mainClass": "DataStrucure.HashMap.Leetcode395",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "Leetcode34",
+            "request": "launch",
+            "mainClass": "DataStrucure.HashMap.Leetcode34",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "LinkedhashSet",
+            "request": "launch",
+            "mainClass": "OOP.Interfaece.LinkedhashSet",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "LinkedSet",
+            "request": "launch",
+            "mainClass": "OOP.Interfaece.LinkedSet",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "Leetcode567",
+            "request": "launch",
+            "mainClass": "DataStrucure.Leetcode.Leetcode567",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "Leetcode535",
+            "request": "launch",
+            "mainClass": "DataStrucure.Leetcode.Leetcode535",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "Leetcode78",
+            "request": "launch",
+            "mainClass": "DataStrucure.arrays.Leetcode78",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
             "name": "Leetcode720",
             "request": "launch",
             "mainClass": "DataStrucure.HashMap.Leetcode720",
