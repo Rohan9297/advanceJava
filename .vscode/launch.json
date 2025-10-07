@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LeetocodeRandom",
+            "request": "launch",
+            "mainClass": "DataStrucure.HashMap.LeetocodeRandom",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "Leetcode12",
+            "request": "launch",
+            "mainClass": "DataStrucure.HashMap.Leetcode12",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "Climbing_stairs",
+            "request": "launch",
+            "mainClass": "Climbing_stairs",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "Fibonaci",
+            "request": "launch",
+            "mainClass": "Fibonaci",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
             "name": "Leetcode395",
             "request": "launch",
             "mainClass": "DataStrucure.HashMap.Leetcode395",

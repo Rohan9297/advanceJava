@@ -7,8 +7,23 @@ public class Leetcode395 {
     public static void main(String[] args) {
         String s = "ababacb";
         int k = 3;
-        int val = longestSubstring(s, k);
+        int val = result(s, k);
         System.out.println(val);
+    }
+
+    public static int result(String s, int k) {
+
+        int start = 0;
+        int len = 0;
+
+        for (int i = start; i < s.length(); i++) {
+
+            len = Math.max(len, helper(s.substring(start, i), k));
+        }
+    }
+
+    private static int helper(String substring, int k) {
+
     }
 
     public static int longestSubstring(String s, int k) {
@@ -16,6 +31,7 @@ public class Leetcode395 {
         Map<Character, Integer> map = new HashMap<>();
         int len = 0;
         String str = "";
+        String result = "";
         for (char cha : s.toCharArray()) {
             map.put(cha, map.getOrDefault(cha, 0) + 1);
         }
@@ -28,10 +44,9 @@ public class Leetcode395 {
             }
 
             else {
+                result = str;
                 str = "";
             }
-
-            len = Math.max(len, str.length());
 
         }
 
