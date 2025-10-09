@@ -20,8 +20,6 @@ public class LeetocodeRandom {
         }
 
         for (Map.Entry<Character, Integer> entry : map.entrySet()) {
-
-            char ch = entry.getKey();
             int num = entry.getValue();
 
             if (num % 2 == 0 && num > max_even) {

@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Leetcode30",
+            "request": "launch",
+            "mainClass": "Leetcode30",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "Leetcode30",
+            "request": "launch",
+            "mainClass": "DataStrucure.HashMap.Leetcode30",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
+            "name": "Treeset",
+            "request": "launch",
+            "mainClass": "DataStrucure.HashMap.Treeset",
+            "projectName": "advanceJava_d6000cd3"
+        },
+        {
+            "type": "java",
             "name": "LeetocodeRandom",
             "request": "launch",
             "mainClass": "DataStrucure.HashMap.LeetocodeRandom",

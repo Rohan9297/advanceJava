@@ -6,14 +6,14 @@ import java.util.Set;
 
 public class Leetcode720 {
     public static void main(String[] args) {
-        Solution s = new Solution();
+        SolutionJava s = new SolutionJava();
         String[] words = { "w", "wo", "wor", "worl", "world" };
         String str = s.longestWord(words);
         System.out.println(str);
     }
 }
 
-class Solution {
+class SolutionJava {
 
     public String longestWord(String[] words) {
 

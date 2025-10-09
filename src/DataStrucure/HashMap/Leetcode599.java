@@ -1,4 +1,4 @@
-package DataStrucure.HashMap;
+package advanceJava.src.DataStrucure.HashMap;
 
 import java.util.ArrayList;
 
@@ -15,7 +15,7 @@ public class Leetcode599 {
 
            int navigator=Integer.MAX_VALUE;
 
-           for(int i=0;i<())
-           
+
+     return null;
     }
 }

@@ -20,10 +20,12 @@ public class Leetcode395 {
 
             len = Math.max(len, helper(s.substring(start, i), k));
         }
+
+        return len;
     }
 
     private static int helper(String substring, int k) {
-
+                return 0;
     }
 
     public static int longestSubstring(String s, int k) {
