@@ -1,4 +1,4 @@
-package advanceJava.src.DataStrucure.arrays;
+package DataStrucure.arrays;
 
 public class ArmStrong {
 

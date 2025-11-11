@@ -3,7 +3,9 @@ package OOP.Concepts;
 public class SuperKey {
     public static void main(String[] args) {
         DemoInherit d1 = new DemoInherit(1, 12, 12);
-        d1.add();
+        int result=d1.addition();
+        System.out.println(result);
+//        d1.anything();
     }
 }
 
@@ -22,6 +24,11 @@ class Demo {
         return sum;
     }
 
+    public void anything(){
+
+        System.out.println("doing the great work in the parent class");
+    }
+
 }
 
 class DemoInherit extends Demo {
@@ -36,10 +43,16 @@ class DemoInherit extends Demo {
         this.c = c;
     }
 
-    public void add() {
-        int sum = super.addition() + c;
-        System.out.println(sum);
+    public int addition() {
 
+        int sum=c+super.addition();
+
+        return sum;
+    }
+
+    public void anything(){
+        super.anything();
+        System.out.println("doing the great work in the child class");
     }
 
 }
