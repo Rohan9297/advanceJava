@@ -3,7 +3,7 @@ package DataStrucure.arrays;
 public class ArmStrong {
 
     public static void main(String[] args) {
-        boolean value = isArmstrong(9474);
+        boolean value = isArmstrong(153);
         System.out.println(value);
     }
 

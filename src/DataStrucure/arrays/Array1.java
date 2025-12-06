@@ -1,4 +1,4 @@
-package advanceJava.src.DataStrucure.arrays;
+package DataStrucure.arrays;
 
 // Given two unsorted arrays of distinct elements, the task is to find all pairs from both arrays whose sum is equal to a given value X.
 import java.util.Arrays;
@@ -12,8 +12,8 @@ import java.util.Scanner;
 // Output: 1 8 4 5 5 4
 
 // User function Template for Java
-class Solution {
-    Solution() {
+ class Solution1 {
+    Solution1() {
         super();
     }
     // public static int[] productExceptSelf(int arr[]) {
